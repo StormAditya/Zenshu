@@ -1,6 +1,5 @@
 import React from 'react';
 import PageWrapper from '../components/PageWrapper';
-
 const WebsitesPage = ({ contentType }) => {
     const animeSites = [
         { name: 'Anime Kai', url: 'https://animekai.cc/home', description: 'A popular streaming site for anime.' },

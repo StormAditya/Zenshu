@@ -1,6 +1,5 @@
 import React from 'react';
 import PageWrapper from '../components/PageWrapper';
-
 const AboutPage = () => {
     const teamMembers = [
       { name: 'Aditya Desai', initials: 'https://raw.githubusercontent.com/StormAditya/OH_us/refs/heads/main/otakuhub/aditya.jpeg' },

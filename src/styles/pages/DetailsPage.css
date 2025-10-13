@@ -1,0 +1,96 @@
+.details-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.details-main-image {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto 1rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-lg);
+}
+.info-card-title {
+  font-weight: bold;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
+.info-card p {
+  margin-bottom: 0.25rem;
+  font-size: 0.875rem;
+}
+.details-right-col {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.section-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.synopsis-text {
+  color: var(--color-text-secondary);
+  line-height: 1.6;
+  font-size: 0.9rem;
+}
+.character-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+.character-card {
+  text-align: center;
+}
+.character-image {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 9999px;
+  object-fit: cover;
+  margin: 0 auto 0.5rem;
+  box-shadow: var(--shadow-md);
+}
+.character-name {
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+.character-role {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+}
+.review-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.review-item {
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 1rem;
+}
+.review-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.review-author {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+.author-avatar {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 9999px;
+  margin-right: 0.75rem;
+}
+.author-name {
+  font-weight: bold;
+}
+.author-score {
+  font-size: 0.875rem;
+  color: #f59e0b;
+  font-weight: 600;
+}
+.review-text {
+  font-size: 0.875rem;
+  color: var(--color-text-secondary);
+}

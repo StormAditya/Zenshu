@@ -1,0 +1,11 @@
+.card {
+  background-color: var(--color-card);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+  padding: 1.5rem;
+}
+.card.card-list-wrapper {
+  padding: 0;
+}

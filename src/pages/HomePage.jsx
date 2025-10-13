@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 const HomePage = ({ contentType }) => {
     const accentTextClass = contentType === 'anime' ? 'text-accent-anime' : 'text-accent-manga';
     const accentBgClass = contentType === 'anime' ? 'bg-accent-anime' : 'bg-accent-manga';

@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink as RouterNavLink, Outlet } from 'react-router-dom';
 
-
 const Layout = ({ contentType, setContentType }) => {
     
     const NavLink = ({ to, label, iconClass }) => (

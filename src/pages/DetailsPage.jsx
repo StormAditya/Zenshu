@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import PageWrapper from '../components/PageWrapper';
 import LoadingSpinner from '../components/LoadingSpinner';
-
 const DetailsPage = () => {
     const { id, contentType } = useParams();
     const [details, setDetails] = useState(null);
