@@ -1,7 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import '../styles/components/PageWrapper.css';
-import '../styles/components/Button.css';
+
 const PageWrapper = ({ title, children, showBackButton }) => {
     const navigate = useNavigate();
     return (

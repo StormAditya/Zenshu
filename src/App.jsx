@@ -1,20 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import './styles/global.css';
-import './styles/responsive.css';
-import './styles/components/Button.css';
-import './styles/components/Card.css';
-import './styles/components/Layout.css';
-import './styles/components/LoadingSpinner.css';
-import './styles/components/PageWrapper.css';
-import './styles/pages/AboutPage.css';
-import './styles/pages/DetailsPage.css';
-import './styles/pages/HomePage.css';
-import './styles/pages/RankingsPage.css';
-import './styles/pages/SearchPage.css';
-import './styles/pages/TrendingPage.css';
-import './styles/pages/UpcomingPage.css';
-import './styles/pages/WebsitesPage.css';
+import './App.css';
 
 // Import Layout, Pages, and other components
 import Layout from './components/Layout';
