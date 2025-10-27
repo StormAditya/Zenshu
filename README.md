@@ -1,16 +1,74 @@
-# React + Vite
+Zenshu
+Group Project 
+By Aditya, Abodh, Akarsh & Abhishek
+________________________________________
+Project Overview:
+Zenshu is a web application built using React and Vite. It was created as a group project to make a front-end based website covering its concepts, teamwork, and version control. The project focuses on clean design, modular components, and responsive layouts.
+________________________________________
+Features:
+•	Built with React + Vite for fast development.
+•	Simple and modern front-end design.
+•	Responsive layout for different screen sizes.
+•	Component-based architecture.
+•	Organized folder structure and reusable assets.
+•	Ready for deployment using Vite build tools.
+________________________________________
+Tech Stack:
+•	Front-end: React
+•	Build Tool: Vite
+•	Languages: JavaScript, HTML, CSS
+•	Version Control: Git and GitHub
+•	Tools: ESLint (for code consistency)	
+________________________________________
+Project Structure:
+Zenshu/
+src/                -> Source code and components
+assets/             -> Images and other media files
+index.html          -> Main HTML file
+package.json        -> Project dependencies and scripts
+vite.config.js      -> Vite configuration
+________________________________________
+How to Run the Project:
+1.	Install Node.js (version 14 or higher recommended)
+2.	Clone the repository:
+git clone https://github.com/StormAditya/Zenshu.git
+3.	Go to the project directory:
+cd Zenshu
+4.	Install dependencies:
+npm install
+5.	Run the project:
+npm run dev
+6.	Build for production:
+npm run build
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+OR
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+go to website link -> https://zenshuu.vercel.app/
+________________________________________
+Team Members:
+•	Aditya – Project setup and build configuration
+•	Akarsh – UI components and responsive design
+•	Abodh – Assets management and integration
+•	Abhishek – Code reviews, collaboration, and testing
+________________________________________
+What We Learned:
+•	How to collaborate using Git and GitHub
+•	Basics of Vite and React environment setup
+•	Building reusable components
+•	Organizing a project structure for teamwork
+•	Deploying a front-end web project
+________________________________________
+Future Improvements:
+•	Add routing using React Router
+•	Connect to a backend API 
+•	Implement state management (Redux or Context API)
+•	Improve UI with animations and transitions
+•	Add testing (unit and integration tests)
+________________________________________
+License:
+This project is for educational purposes only. Anyone can use or modify it with proper credit to the team.
+________________________________________
+Acknowledgements:
+Special thanks to our instructor, peers, and the open-source community for their guidance and support.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
