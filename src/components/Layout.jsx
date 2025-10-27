@@ -30,7 +30,7 @@ const Layout = ({ contentType, setContentType }) => {
                 <div>
                     <div className="sidebar-header">
                        <div className="sidebar-logo">
-                            <img src='https://raw.githubusercontent.com/StormAditya/OH_us/refs/heads/main/otakuhub/logo.jpg' alt="OtakuHub logo" style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
+                            <img src='https://raw.githubusercontent.com/StormAditya/Zenshu/refs/heads/main/logo.jpg' alt="OtakuHub logo" style={{ height: '100%', width: '100%', objectFit: 'cover' }} />
                        </div>
                        <h2 className="sidebar-title">Zenshu</h2>
                     </div>

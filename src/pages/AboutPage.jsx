@@ -2,10 +2,10 @@ import React from 'react';
 import PageWrapper from '../components/PageWrapper';
 const AboutPage = () => {
     const teamMembers = [
-      { name: 'Aditya Desai', initials: 'https://raw.githubusercontent.com/StormAditya/OH_us/refs/heads/main/otakuhub/aditya.jpeg' },
-      { name: 'Abodh Panchal', initials: 'https://raw.githubusercontent.com/StormAditya/OH_us/refs/heads/main/otakuhub/abodh.jpeg' },
-      { name: 'Akarsh Sunil', initials: 'https://raw.githubusercontent.com/StormAditya/OH_us/refs/heads/main/otakuhub/akarsh.jpeg' },
-      { name: 'Abhishek Chaudhary', initials: 'https://github.com/StormAditya/OH_us/blob/main/otakuhub/shake.jpeg?raw=true' },
+      { name: 'Aditya Desai', initials: 'https://raw.githubusercontent.com/StormAditya/Zenshu/refs/heads/main/aditya.jpeg' },
+      { name: 'Abodh Panchal', initials: 'https://raw.githubusercontent.com/StormAditya/Zenshu/refs/heads/main/abodh.jpeg' },
+      { name: 'Akarsh Sunil', initials: 'https://raw.githubusercontent.com/StormAditya/Zenshu/refs/heads/main/akarsh.jpeg' },
+      { name: 'Abhishek Chaudhary', initials: 'https://raw.githubusercontent.com/StormAditya/Zenshu/refs/heads/main/shake.jpeg' },
     ];
 
     return (
