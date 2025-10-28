@@ -1,11 +1,11 @@
-Zenshu
-Group Project 
+**Zenshu
+Group Project **
 By Aditya, Abodh, Akarsh & Abhishek
 ________________________________________
-Project Overview:
+**Project Overview:**
 Zenshu is a web application built using React and Vite. It was created as a group project to make a front-end based website covering its concepts, teamwork, and version control. The project focuses on clean design, modular components, and responsive layouts.
 ________________________________________
-Features:
+**Features:**
 •	Built with React + Vite for fast development.
 •	Simple and modern front-end design.
 •	Responsive layout for different screen sizes.
@@ -13,14 +13,14 @@ Features:
 •	Organized folder structure and reusable assets.
 •	Ready for deployment using Vite build tools.
 ________________________________________
-Tech Stack:
+**Tech Stack:**
 •	Front-end: React
 •	Build Tool: Vite
 •	Languages: JavaScript, HTML, CSS
 •	Version Control: Git and GitHub
 •	Tools: ESLint (for code consistency)	
 ________________________________________
-Project Structure:
+**Project Structure:**
 Zenshu/
 src/                -> Source code and components
 assets/             -> Images and other media files
@@ -28,7 +28,7 @@ index.html          -> Main HTML file
 package.json        -> Project dependencies and scripts
 vite.config.js      -> Vite configuration
 ________________________________________
-How to Run the Project:
+**How to Run the Project:**
 1.	Install Node.js (version 14 or higher recommended)
 2.	Clone the repository:
 git clone https://github.com/StormAditya/Zenshu.git
@@ -41,34 +41,33 @@ npm run dev
 6.	Build for production:
 npm run build
 
-
 OR
 
 go to website link -> https://zenshuu.vercel.app/
 ________________________________________
-Team Members:
+**Team Members:**
 •	Aditya – Project setup and build configuration
 •	Akarsh – UI components and responsive design
 •	Abodh – Assets management and integration
 •	Abhishek – Code reviews, collaboration, and testing
 ________________________________________
-What We Learned:
+**What We Learned:**
 •	How to collaborate using Git and GitHub
 •	Basics of Vite and React environment setup
 •	Building reusable components
 •	Organizing a project structure for teamwork
 •	Deploying a front-end web project
 ________________________________________
-Future Improvements:
+**Future Improvements:**
 •	Add routing using React Router
 •	Connect to a backend API 
 •	Implement state management (Redux or Context API)
 •	Improve UI with animations and transitions
 •	Add testing (unit and integration tests)
 ________________________________________
-License:
+**License:**
 This project is for educational purposes only. Anyone can use or modify it with proper credit to the team.
 ________________________________________
-Acknowledgements:
+**Acknowledgements:**
 Special thanks to our instructor, peers, and the open-source community for their guidance and support.
 
