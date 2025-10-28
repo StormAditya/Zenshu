@@ -1,6 +1,6 @@
 **Zenshu
 Group Project **
-By Aditya, Abodh, Akarsh & Abhishek
+By cool guys Adityaaaa, Abodhhhh, Akarshhhh & Abhishekkkk
 ________________________________________
 **Project Overview:**
 Zenshu is a web application built using React and Vite. It was created as a group project to make a front-end based website covering its concepts, teamwork, and version control. The project focuses on clean design, modular components, and responsive layouts.
